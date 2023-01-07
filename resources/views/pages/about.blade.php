@@ -38,7 +38,7 @@
                             <!-- start blockquote -->
                         <blockquote class="border-color-deep-pink">
                             <h6 class="text-deep-pink font-weight-600 mb-3 alt-font">Our Vision</h6>
-                            <span class="d-block text-black opacity6 margin-5px-bottom alt-font">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi incidunt corrupti alias saepe nam. Incidunt nulla,</span>
+                            <span class="d-block text-black opacity6 margin-5px-bottom alt-font">To be the leading consulting and tutorial centre in nigeria by providing first class information and guidance to all our students which will result in the achievement of their dream jobs.</span>
                         </blockquote>
                         <!-- end blockquote -->
                         </div>
@@ -46,7 +46,7 @@
                             <!-- start blockquote -->
                             <blockquote class="border-color-deep-pink">
                             <h6 class="text-deep-pink font-weight-600 mb-3 alt-font">Our Mission</h6>
-                            <span class="d-block text-black opacity6 margin-5px-bottom alt-font">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi incidunt corrupti alias saepe nam. Incidunt nulla,</span>
+                            <span class="d-block text-black opacity6 margin-5px-bottom alt-font">To equip eligible and vibrant nigerian youths the right information and guidance needed to achieve their dream career in the nigerian military and paramilitary service.</span>
                         </blockquote>
                         <!-- end blockquote -->
                         </div>

@@ -11,10 +11,10 @@
     <!-- keywords -->
     <meta name="keywords" content="startup, tech hubs, port-harcourt, incubation, training, innovation, Nigeria, Africa, tech company, idea validation, corporate innovation, startup incubation, co-work, software development, erp development, ">
     <!-- favicon -->
-    <link rel="shortcut icon" href="images/favicon.png">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.html">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    {{-- <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.html">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.html">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.html">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.html"> --}}
     <!-- style sheets and font icons  -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/bootsnav.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/font-icons.min.css') }}">
