@@ -25,16 +25,16 @@
                         </li>
                         
                         <li class="dropdown">
-                            <a href="about-us">About Us</a>
+                            <a href="{{route('about')}}">About Us</a>
                         </li>
 
                         
                         <li>
                             <a href="services">Services</a>
                         </li>
-                        <li class="dropdown">
+                        {{-- <li class="dropdown">
                             <a href="#">Gallery</a>
-                        </li>
+                        </li> --}}
                         <!-- <li class="dropdown">
                             <a href="cowork.html">Co-work</a>
                         </li> -->
@@ -44,10 +44,11 @@
                 </div>
             </div>
             <div class="col-auto col-lg-2 pe-0 text-end d-none d-md-block">
-                <a href="contact.html" class="btn btn-medium btn-red">Contact Us</a>
+                <a href="{{route('contact-page')}}" class="btn btn-medium btn-red">Contact Us</a>
             </div>
             
         </div>
     </nav>
+    
     <!-- end navigation --> 
 </header>

@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row">
                 <!-- start copyright -->
-                <div class="col-md-12 text-md-start text-small text-center">&copy; <script> document.write(new Date().getFullYear();) </script> Powered by Ovviy Integrated Services</div>
+                <div class="col-md-12 text-md-start text-small text-center">&copy; <script> document.write(new Date().getFullYear()) </script> Powered by Ovviy Integrated Services</div>
                 <!-- <div class="col-md-6 text-md-end text-small text-center">
                     <a href="javascript:void(0);" class="text-dark-gray">Term and Condition</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.html" class="text-dark-gray">Privacy Policy</a>
                 </div> -->

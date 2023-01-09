@@ -1,7 +1,10 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AgencyController;
 use App\Http\Controllers\PagesController;
+use App\Http\Controllers\PaymentController;
+use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,6 +18,12 @@ use App\Http\Controllers\PagesController;
 */
 
 Route::get('/', [PagesController::class, 'home'])->name('home');
-Route::get('/about-us', [PagesController::class, 'about']);
+Route::get('/about-us', [PagesController::class, 'about'])->name('about');
 Route::get('/services', [PagesController::class, 'services']);
 Route::get('/services/{agency}', [PagesController::class, 'agency'])->name('agency-detail');
+Route::get('/contact', [PagesController::class, 'contact'])->name('contact-page');
+
+Route::post('/submit-application', [AgencyController::class, 'createApplication'])->name('submit-application');
+Route::get('/get-user', [UserController::class, 'getUser'])->name('get-user');
+
+Route::get('/verify-paystack-pay', [PaymentController::class, 'verifyPay'])->name('verify-paystack-pay');

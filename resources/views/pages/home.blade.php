@@ -3,15 +3,19 @@
     <div class="">    
         <!-- start header -->
         @include('shared.header')
-
+       
           <!-- start hero section -->
           <section class="wow animate__fadeIn bg-very-light-gray pt-0 pb-0 d-lg-block d-none">
             <div class="container-fluid position-relative">
                 <div class="row align-items-center">
+                    
                     <!-- start column -->
                     <div class="col-12 col-lg-6 col-md-5 d-flex flex-column justify-content-center full-screen page-title-large padding-100px-left">
                         <!-- start page title -->
                         <!--<span class="d-block text-black opacity6 text-small alt-font text-uppercase">About Pagviy-solutions</span> -->
+                        <div>
+                            @include('shared.alert')
+                        </div>
                         <h1 class="text-black font-weight-600 alt-font letter-spacing-minus-2 sm-margin-50px-top">Lets help you serve in your dream agency.</h1>
                         <p class="text-black opacity6 text-large alt-font">PAGVIY solutions would give you step by step guidance on the application/interview processes for your desired agency.
                         </p>
