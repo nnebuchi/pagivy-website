@@ -28,6 +28,6 @@ class SendApplicationDetailToAdmin
      */
     public function handle(ApplicationPaymentCompleted $event)
     {
-        Mail::to('nnebuchiosigbo340@gmail.com')->send(new SendApplicationDetailMails($event->application));
+        Mail::to(env('APPLICATION_RECEPIENT_MAIL'))->send(new SendApplicationDetailMails($event->application));
     }
 }

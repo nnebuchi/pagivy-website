@@ -30,7 +30,7 @@
 
                         
                         <li>
-                            <a href="services">Services</a>
+                            <a href="{{route('services')}}">Services</a>
                         </li>
                         {{-- <li class="dropdown">
                             <a href="#">Gallery</a>
