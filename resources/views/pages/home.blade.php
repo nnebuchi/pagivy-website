@@ -20,7 +20,7 @@
                         <p class="text-black opacity6 text-large alt-font">PAGVIY solutions would give you step by step guidance on the application/interview processes for your desired agency.
                         </p>
                         <div class="btn-dual margin-10px-top">
-                            <a href="services.html" class="btn btn-large btn-red mx-lg-0">Get Started</a>
+                            <a href="{{route('services')}}" class="btn btn-large btn-red mx-lg-0">Get Started</a>
                             <!-- <a href="ideavalidation.html" class="alt-font text-uppercase px-3 font-weight-600 text-link-extra-dark-gray text-deep-pink-hover text-small">Turn idea to reality<i class="fas fa-long-arrow-alt-right margin-5px-left text-deep-pink text-medium position-relative top-2" aria-hidden="true"></i></a> -->
                         </div>
                         <!-- end page title -->

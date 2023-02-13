@@ -14,12 +14,12 @@
                 <div class="col-lg-3 col-sm-6 widget border-right border-color-medium-dark-gray padding-45px-left md-padding-15px-left md-no-border-right md-margin-30px-bottom text-start">
                     <div class="widget-title alt-font text-small text-medium text-light-gray text-uppercase margin-10px-bottom font-weight-600">Quick Links</div>
                     <ul class="list-unstyled alt-font">
-                        <li><a class="text-small" href="about-us.html">About Us</a></li>
-                        <li><a class="text-small" href="services.html">Services</a></li>
+                        <li><a class="text-small" href="{{route('about')}}">About Us</a></li>
+                        <li><a class="text-small" href="{{route('services')}}">Services</a></li>
                         <!-- <li><a class="text-small" href="capacity-buliding.html">Courses</a></li>
                         <li><a class="text-small" href="grayspace.html">Community</a></li> -->
-                        <li><a class="text-small" href="contact.html">Contact Us</a></li>
-                        <li><a class="text-small" href="#">Gallery</a></li>
+                        <li><a class="text-small" href="{{route('contact-page')}}">Contact Us</a></li>
+                        {{-- <li><a class="text-small" href="#">Gallery</a></li> --}}
                     </ul>
                 </div>
                 <!-- end additional links -->
@@ -27,7 +27,7 @@
                 <div class="col-lg-3 col-sm-6 widget border-right alt-font border-color-medium-dark-gray padding-45px-left md-padding-15px-left md-no-border-right xs-margin-30px-bottom text-start">
                     <div class="widget-title alt-font text-small text-medium text-light-gray  text-uppercase margin-10px-bottom font-weight-600">Contact Info</div>
                     <p class="text-small d-block margin-5px-bottom w-80 sm-w-100">Pagviy Solutions<br> <img src="{{ asset('images/footer/location-icon.png') }}" alt="location-icon"> 48 Marine Road, SHO-SILVA, GRA APAPA LAGOS,NIGERIA </p>
-                    <div class="text-small margin-5px-bottom"><img src="{{ asset('images/footer/message-icon.png') }}" alt="message-icon"> Email: <a href="mailto:hello@techbridge.city"></a></div>
+                    <div class="text-small margin-5px-bottom"><img src="{{ asset('images/footer/message-icon.png') }}" alt="message-icon"> Email: <a href="mailto:info@pagviysolution.com">info@pagviysolution.com</a></div>
                     <div class="text-small"><img src="{{ asset('images/footer/phone-icon.png') }}" alt="phone-icon"> Phone: </div>
                 </div>
                 <!-- end contact information -->

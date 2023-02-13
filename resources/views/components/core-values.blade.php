@@ -10,24 +10,24 @@
             <div class="col sm-margin-15px-bottom">
                 <!-- start blockquote -->
             <blockquote class="border-color-extra-light-gray">
-                <h6 class="text-white font-weight-600 mb-3 alt-font">Innovative</h6>
-                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">We believe everyone has unique and creative ideas that, when developed, can make the world a better place.</span>
+                <h6 class="text-white font-weight-600 mb-3 alt-font">Commitment to Customers:</h6>
+                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">We are built on ensuring maximum customer satisfaction.</span>
             </blockquote>
             <!-- end blockquote -->
             </div>
             <div class="col sm-margin-15px-bottom">
                 <!-- start blockquote -->
                 <blockquote class="border-color-extra-light-gray">
-                <h6 class="text-white font-weight-600 mb-3 alt-font">Integrity</h6>
-                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">We are honest, reliable, dependable, ethical and trustworthy.</span>
+                <h6 class="text-white font-weight-600 mb-3 alt-font">Industrious</h6>
+                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">We are intentional, hardworking, productive and consistent.</span>
             </blockquote>
             <!-- end blockquote -->
             </div>
             <div class="col">
                 <!-- start blockquote -->
             <blockquote class="border-color-extra-light-gray">
-                <h6 class="text-white font-weight-600 mb-3 alt-font">Industrious</h6>
-                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">We are intentional, hardworking, productive and consistent</span>
+                <h6 class="text-white font-weight-600 mb-3 alt-font">Equality</h6>
+                <span class="d-block text-white-2 opacity6 margin-5px-bottom alt-font">Everyone deserves equal opportunities. We believe everyone should be seen, heard, valued, and empowered to succeed. </span>
             </blockquote>
             <!-- end blockquote -->
             </div>                    
