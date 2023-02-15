@@ -162,7 +162,7 @@
                 <div class="content">
                     <i class="icon-envelope icon-medium text-deep-pink"></i>
                     <div class="text-medium alt-font text-capitalize text-extra-dark-gray margin-10px-bottom md-margin-5px-bottom">Email Us</div>
-                    <p class="w-85 mx-auto md-w-100 alt-font">hello@</p>
+                    <p class="w-85 mx-auto md-w-100 alt-font">info@pagviysolution.com</p>
                 </div>   
             </div>
         </div>
